@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.c50ea1fc.css",
-    "main.js": "/static/js/main.1e743dc5.js",
-    "static/js/453.eaa20044.chunk.js": "/static/js/453.eaa20044.chunk.js",
-    "static/media/magazine-main.png": "/static/media/magazine-main.5201ab4944bd14d51971.png",
-    "static/media/guide.webp": "/static/media/guide.b988e7c77f1d801e8ca4.webp",
-    "static/media/Keyboard-banner.png": "/static/media/Keyboard-banner.225e48b89589f1a33f2c.png",
-    "static/media/event_banner.png": "/static/media/event_banner.113860e8ac0d39f585a0.png",
-    "static/media/switch-banner.png": "/static/media/switch-banner.a94f48c07c1aa0adb008.png",
-    "static/media/mice-banner.png": "/static/media/mice-banner.4e32da5e3aaef319cad9.png",
-    "index.html": "/index.html",
-    "main.c50ea1fc.css.map": "/static/css/main.c50ea1fc.css.map",
-    "main.1e743dc5.js.map": "/static/js/main.1e743dc5.js.map",
-    "453.eaa20044.chunk.js.map": "/static/js/453.eaa20044.chunk.js.map"
+    "main.css": "/keychron/static/css/main.b29088b0.css",
+    "main.js": "/keychron/static/js/main.629af7a2.js",
+    "static/js/453.eaa20044.chunk.js": "/keychron/static/js/453.eaa20044.chunk.js",
+    "static/media/magazine-main.png": "/keychron/static/media/magazine-main.5201ab4944bd14d51971.png",
+    "static/media/guide.webp": "/keychron/static/media/guide.b988e7c77f1d801e8ca4.webp",
+    "static/media/Keyboard-banner.png": "/keychron/static/media/Keyboard-banner.225e48b89589f1a33f2c.png",
+    "static/media/event_banner.png": "/keychron/static/media/event_banner.113860e8ac0d39f585a0.png",
+    "static/media/switch-banner.png": "/keychron/static/media/switch-banner.a94f48c07c1aa0adb008.png",
+    "static/media/mice-banner.png": "/keychron/static/media/mice-banner.4e32da5e3aaef319cad9.png",
+    "index.html": "/keychron/index.html",
+    "main.b29088b0.css.map": "/keychron/static/css/main.b29088b0.css.map",
+    "main.629af7a2.js.map": "/keychron/static/js/main.629af7a2.js.map",
+    "453.eaa20044.chunk.js.map": "/keychron/static/js/453.eaa20044.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c50ea1fc.css",
-    "static/js/main.1e743dc5.js"
+    "static/css/main.b29088b0.css",
+    "static/js/main.629af7a2.js"
   ]
 }
